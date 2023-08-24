@@ -8,9 +8,9 @@ Course: [Google Data Analytics Capstone: Complete a Case Study](https://www.cour
 Data Source: [divvy_tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html) [accessed on 04/03/23]  
   
 R Code:   
-[1. Data Exploration](https://github.com/SomiaNasir/Google-Data-Analytics-Capstone-Cyclistic-Case-Study/blob/main/02.%20Data%20Exploration.sql)  
-[2. Data Cleaning](https://github.com/SomiaNasir/Google-Data-Analytics-Capstone-Cyclistic-Case-Study/blob/main/03.%20Data%20Cleaning.sql)  
-[3. Data Analysis](https://github.com/SomiaNasir/Google-Data-Analytics-Capstone-Cyclistic-Case-Study/blob/main/04.%20Data%20Analysis.sql)
+[1. Data Exploration](https://github.com/Pration/portfolio_projects/blob/main/Data_Exploration/data_exploration.R)  
+[2. Data Cleaning](https://github.com/Pration/portfolio_projects/blob/main/Data_Cleaning/data_cleaning.R)  
+[3. Data Analysis](https://github.com/Pration/portfolio_projects/blob/main/Data_Analysis/data_analysis.R)
 
 ### Introduction
 
