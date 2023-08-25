@@ -5,7 +5,7 @@ Course: [Google Data Analytics Capstone: Complete a Case Study](https://www.cour
 ## Case Study: How Does a Bike Share Navigate Speedy Success
 
 ### Expedited navigation links:
-Data Source: [divvy_tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html) [accessed on 04/03/23]  
+Data Source: [divvy_tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html) [accessed on 31/05/23]  
   
 R Code:   
 [1. Data Exploration](https://github.com/Pration/portfolio_projects/blob/main/Data_Exploration/data_exploration.R)  
