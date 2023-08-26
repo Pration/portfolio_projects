@@ -9,8 +9,11 @@ Data Source: [divvy_tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html
   
 R Code:   
 [1. Data Exploration](https://github.com/Pration/portfolio_projects/blob/main/Data_Exploration/data_exploration.R)  
-[2. Data Cleaning](https://github.com/Pration/portfolio_projects/blob/main/Data_Cleaning/data_cleaning.R)  
+
+[2. Data Cleaning](https://github.com/Pration/portfolio_projects/blob/main/Data_Cleaning/data_cleaning.R) 
+
 [3. Data Analysis](https://github.com/Pration/portfolio_projects/blob/main/Data_Analysis/data_analysis.R)
+
 [4. Data Visualization](https://public.tableau.com/views/BikeShare2_16857956701950/ExploringBikeShareUsageATaleofCasualvs_AnnualRiders?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
