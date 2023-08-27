@@ -16,6 +16,8 @@ R Code:
 
 [4. Data Visualization](https://public.tableau.com/views/BikeShare2_16857956701950/ExploringBikeShareUsageATaleofCasualvs_AnnualRiders?:language=en-US&:display_count=n&:origin=viz_share_link)
 
+[5. Presentation/ Report](https://docs.google.com/presentation/d/1xDEYETbY49vevyszMM60aPxqECUhiFWHwl8S_l9NA8I/edit?usp=sharing)
+
 
 ### Introduction
 
